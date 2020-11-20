@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:background="@color/yellow2"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bekasi_tour_guide_app"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/orange"
+        android:layout_marginTop="50dp"
+        android:textAlignment="center"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:elevation="5dp"
+        app:srcCompat="@drawable/logo_bekasi" />
+
+    <Button
+        android:id="@+id/button_wisata_satu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/gedung_juang_45" />
+
+    <Button
+        android:id="@+id/button_wisata_dua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pantai_muara_beting" />
+
+    <Button
+        android:id="@+id/button_wisata_tiga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/danau_marakas" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BekasiTourGuideApp</string>
+    <string name="bekasi_tour_guide_app">Bekasi Tour Guide App</string>
+    <string name="gedung_juang_45">Gedung Juang 45</string>
+    <string name="pantai_muara_beting">Pantai Muara Beting</string>
+    <string name="danau_marakas">Danau Marakas</string>
+    <string name="gedung_juang_desc">Gedung Juang 45 atau yang biasa disebut Gedung Juang Tambun merupakan bangunan bersejarah yang ada di Tambun, Bekasi. Jika Anda adalah pengagum bangunan gaya kolonial Belanda, berkunjung ke bangunan ini bisa menjadi pilihan wisata yang menarik. Gedung Juang 45 dibangun oleh seorang bangsawan dan tuan tanah bernama Khou Tjeng Kee. Setelah kepergian Khou Tjeng Kee, kepengurusan Gedung Juang 45 dilanjutkan oleh anaknya yang bernama Khou Oen Hoei. Pada masa pasca kemerdekaan, Gedung Juang 45 Bekasi sempat dipakai sebagai kantor untuk Kabupaten Jatinegara.</string>
+    <string name="gedung_juang_alamat">Alamat: Jl. Sultan Hasanudin No. 39, Setiadarma, Tambun Selatan, Bekasi, Jawa Barat.</string>
+    <string name="kembali_ke_halaman_utama">Kembali ke Halaman Utama</string>
+    <string name="menuju_lokasi">Menuju Lokasi</string>
+    <string name="pantai_muara_beting_alamat">Alamat: Pantai Bahagia, Muara Gembong, Bekasi, Jawa Barat</string>
+    <string name="pantai_muara_beting_desc">Wisata pantai Bekasi selanjutnya adalah pantai Muara Beting di Muara Gembong, Bekasi. Pantai ini pantas disebut sebagai hidden gem-nya Bekasi, karena tampilannya yang sangat berbeda dari kebanyakan lanskap Bekasi.  Selain itu, Anda juga bisa rehat sejenak di sini, melupakan semua beban pikiran yang mungkin sedang mengganggu Anda. Ditemani dengan pohon-pohon mangrove dan palem, pengalaman Anda akan lebih berkesan lagi.  Pantai Muara Beting buka 24 jam. Anda tidak dikenakan biaya apapun jika berkunjung ke pantai ini.</string>
+    <string name="danau_marakas_alamat">Alamat: Jl. Sejahtera No. 53, Babelan, Bekasi, Jawa Barat</string>
+    <string name="danau_marakas_desc">Jika danau mampu memberikan ketenangan tersendiri bagi Anda, Anda patut berkunjung ke Danau Marakas yang terletak di Babelan. Danau ini bisa menjadi tempat short escape yang ideal dari hiruk-pikuk kehidupan perkotaan.  Menikmati pemandangan danau yang asri, ditemani terpaan angin sepoi-sepoi merupakan pengalaman berharga yang bisa didapat dari danau ini. Untuk bisa menikmati keindahannya, Anda tidak dikenai biaya apapun. Danau buka dari pukul 08:00 pagi sampai 05:00 sore WIB.</string>
+</resources>
